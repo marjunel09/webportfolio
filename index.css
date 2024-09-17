@@ -1,3 +1,7 @@
+body, h1, h4, p {
+    font-family: 'Poppins', sans-serif;
+}
+
 h1, h4, .navbar-brand, .navbar-nav .nav-link {
     font-family: 'Poppins', sans-serif;
 }
